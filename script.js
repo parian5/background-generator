@@ -4,6 +4,7 @@ var todos = [
 "exercise",
 "study javascript",
 "eat healty",
+"do sonting",
 ]
 
 /*for (var i=0; i < todos.length; i++){
